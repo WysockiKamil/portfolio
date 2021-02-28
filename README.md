@@ -33,13 +33,13 @@ $ Tech skills
 * [Python 3 od Podstaw do Eksperta]();
 * [SQL - MySQL for Data Analytics and Business Intelligence]()
 
-#My Test Cases 
+# My Test Cases 
 
-#My Bug Reports
+# My Bug Reports
 
-#My xPaths and CSS Selectors Examples
+#M y xPaths and CSS Selectors Examples
 
-#My Project
+# My Project
 
 # Books
 * R. Smilgin - "Zawód tester";
