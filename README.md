@@ -37,7 +37,7 @@ $ Tech skills
 
 # My Bug Reports
 
-#M y xPaths and CSS Selectors Examples
+# My xPaths and CSS Selectors Examples
 
 # My Project
 
