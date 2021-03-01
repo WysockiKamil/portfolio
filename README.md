@@ -26,7 +26,7 @@ $ Tech skills
 [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - NO. 14899
 
 # Courses
-* [Podstawy manualnego testowania oprogramowania]();
+* [Podstawy manualnego testowania oprogramowania](https://drive.google.com/file/d/1yP0pUqGe7f7Wu3knfQypyykjBTF0WoD5/view?usp=sharing);
 * [Wstęp do testowania oprogramowania]();
 * [Kurs Selenium Python od podstaw]();
 * [Learn Python 3 - Your First Step to Learning Python]();
