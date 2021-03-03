@@ -23,7 +23,7 @@ $ Tech skills
 * 
 
 # Certificates
-[ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - NO. 14899
+[ISTQB](http://scr.istqb.org/?name=&number=14899%2FFLCT%2F2020&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) - NO. 14899
 
 # Courses
 * [Podstawy manualnego testowania oprogramowania](https://drive.google.com/file/d/1yP0pUqGe7f7Wu3knfQypyykjBTF0WoD5/view?usp=sharing);
